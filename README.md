@@ -1,4 +1,4 @@
 # LaTeX
 
 
-Lives in ``` /Users/Tristan/Library/texmf/tex/latex ```
+Lives in ``` ~/Library/texmf/tex/latex ```
